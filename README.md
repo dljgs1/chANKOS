@@ -2,7 +2,10 @@
 # 译者的话
 
 本书包括导语和第一章部分内容，来自于百度一种新科学吧置顶帖中【令狐少侠VS乔峰】的翻译。第三章部分内容来自于【a614528299】的翻译。由于都是学生，没太多时间更新。希望有对翻译本书感兴趣的一起加入。
-[本书的gitbook地址](https://dljgs1.gitbooks.io/a-new-kind-of-science/content/)
+
+[本书电子书地址](https://dljgs1.gitbooks.io/a-new-kind-of-science/content/)
+
+[本书项目地址](https://github.com/dljgs1/chANKOS)
 
 dljgs1
 

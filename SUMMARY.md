@@ -8,3 +8,4 @@
 * [第五章 二维之上](chp5/README.md)
 	* [导语](chp5/introduction.md)
 	* [元胞自动机](chp5/content1.md)
+	* [图灵机](chp5/content2.md)

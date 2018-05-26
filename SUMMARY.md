@@ -9,3 +9,5 @@
 	* [导语](chp5/introduction.md)
 	* [元胞自动机](chp5/content1.md)
 	* [图灵机](chp5/content2.md)
+	* [替换系统与分形](chp5/content3.md)
+	* [网络系统](chp5/content4.md)
